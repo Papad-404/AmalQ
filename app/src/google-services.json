@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "213931747973",
+    "firebase_url": "https://cobaproject1-5a8cf-default-rtdb.firebaseio.com",
+    "project_id": "cobaproject1-5a8cf",
+    "storage_bucket": "cobaproject1-5a8cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213931747973:android:72f55f0626fe03f9b857ec",
+        "android_client_info": {
+          "package_name": "com.example.myamal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213931747973-jqhnnfo30dn7nkukk3g50p54b6vrlo5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKRLFX90xTCGMD8CG5MuX0c8F6QQYNGNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213931747973-jqhnnfo30dn7nkukk3g50p54b6vrlo5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
